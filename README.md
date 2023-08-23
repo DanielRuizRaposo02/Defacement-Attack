@@ -6,7 +6,7 @@ Un website defacement es un tipo de ataque para aplicaciones web que consiste en
 
 Esta técnica es habitualmente utilizada como forma de protesta, en casos de hacktivismo, o simplemente por "molestar", en casos de ciberdelincuencia. Además, se ha usado en ciberataques a grandes organizaciones, con el fin de dejar evidencia de la intrusión al sistema.
 
-Objetivos del proyecto
+## Objetivos del proyecto
 
 Este proyecto tiene por objetivo principal evaluar el grado de asimilación de los conceptos sobre el análisis forense de sistemas linux. Este objetivo podemos desgranarlo en los siguientes:
 
@@ -14,7 +14,7 @@ Este proyecto tiene por objetivo principal evaluar el grado de asimilación de l
     Documentar el proceso realizado de manera metódica
     Elaborar un informe de conclusiones a nivel técnico.
 
-Descripción del proyecto.
+## Descripción del proyecto.
 
 El propietario de una empresa es notificado por parte de clientes suyos que al acceder a la web de la empresa les aparece una web diferente a la original. Cuando lo comprueba, ve que ha sufrido un ataque defacement, es decir, una manipulación o cambio de una página web lícita sin la autorización correspondiente.
 
@@ -25,21 +25,23 @@ Para realizar lo anteriormente mencionado se os proporcionan dos evidencias:
     Captura de la memoria RAM realizada por el administrador del servidor.
     Adquisición del disco del servidor.
 
-Parte 1. Análisis de la memoria RAM
+### Parte 1. Análisis de la memoria RAM
 
 Sobre la captura de RAM recibida, previo análisis, deberéis elaborar una memoria de trabajo. Es importante que todas las evidencias recogidas en dicha memoria se encuentren adecuadamente descritas: nombre del archivo, localización, mac time del archivo, tamaño, valor hash, así como cualquier otro atributo característico que, como analista, consideres de interés.
 
 Asimismo, es interesante que la memoria de trabajo refleje, en la medida de ol posible, la cronología de los acontecimientos, y ordene y relacione, en caso que sea posible todas las evidencias digitales que se han localizado.
 
 Finalmente, también debes reflejar aquellas pruebas que has realizado, el resultado de las cuales haya sido negativo.
-Parte 2. Análisis de disco
+
+### Parte 2. Análisis de disco
 
 Sobre la imagen de disco recibida, previo análisis, deberéis elaborar una memoria de trabajo. Es importante que todas las evidencias recogidas en dicha memoria se encuentren adecuadamente descritas: nombre del archivo, localización, mac time del archivo, tamaño, valor hash, así como cualquier otro atributo característico que, como analista, consideres de interés.
 
 Asimismo, es interesante que la memoria de trabajo refleje, en la medida de ol posible, la cronología de los acontecimientos, y ordene y relacione, en caso que sea posible todas las evidencias digitales que se han localizado.
 
 Finalmente, también debes reflejar aquellas pruebas que has realizado, el resultado de las cuales haya sido negativo.
-Parte 3. Informe ejecutivo
+
+###Parte 3. Informe ejecutivo
 
 El informe ejecutivo consiste en un resumen del análisis efectuado pero empleando una explicación no técnica, con lenguaje común, en el que se expondrá los hechos más destacables de lo ocurrido en el sistema analizado. Constará de pocas páginas, entre tres y cinco, y será de especial interés para exponer lo sucedido a personal no especializado en sistemas informáticos, como pueda ser el departamento de Recursos Humanos, Administración, e incluso algunos directivos.
 
