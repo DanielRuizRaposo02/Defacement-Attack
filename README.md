@@ -41,7 +41,7 @@ Asimismo, es interesante que la memoria de trabajo refleje, en la medida de ol p
 
 Finalmente, también debes reflejar aquellas pruebas que has realizado, el resultado de las cuales haya sido negativo.
 
-###Parte 3. Informe ejecutivo
+### Parte 3. Informe ejecutivo
 
 El informe ejecutivo consiste en un resumen del análisis efectuado pero empleando una explicación no técnica, con lenguaje común, en el que se expondrá los hechos más destacables de lo ocurrido en el sistema analizado. Constará de pocas páginas, entre tres y cinco, y será de especial interés para exponer lo sucedido a personal no especializado en sistemas informáticos, como pueda ser el departamento de Recursos Humanos, Administración, e incluso algunos directivos.
 
