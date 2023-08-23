@@ -1,0 +1,268 @@
+python ./vol.py -f RAM.bin --profile LinuxUbuntu_4_4_0-1061-aws_profilex64 linux_find_file -i 0xffff880005865d08 -O sysfile
+
+Jul 23 06:35:42 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 06:35:42 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 06:35:42 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1480 seconds.
+Jul 23 06:39:01 ip-172-31-47-60 CRON[5656]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 06:44:54 ip-172-31-47-60 systemd[1]: Starting Daily apt upgrade and clean activities...
+Jul 23 06:44:56 ip-172-31-47-60 systemd[1]: Started Daily apt upgrade and clean activities.
+Jul 23 07:00:22 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 07:00:22 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 07:00:22 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1576 seconds.
+Jul 23 07:09:01 ip-172-31-47-60 CRON[5777]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 07:12:37 ip-172-31-47-60 snapd[28115]: 2018/07/23 07:12:37.530154 storehelpers.go:413: cannot refresh:
+Jul 23 07:12:37 ip-172-31-47-60 snapd[28115]: snap "core": snap has no updates available
+Jul 23 07:12:37 ip-172-31-47-60 snapd[28115]: snap "amazon-ssm-agent": snap has no updates available
+Jul 23 07:12:37 ip-172-31-47-60 snapd[28115]: 2018/07/23 07:12:37.531571 autorefresh.go:388: auto-refresh: all snaps are up-to-date
+Jul 23 07:17:01 ip-172-31-47-60 CRON[5819]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 23 07:26:38 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 07:26:38 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 07:26:38 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1545 seconds.
+Jul 23 07:39:01 ip-172-31-47-60 CRON[5834]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 07:52:23 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 07:52:23 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 07:52:23 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1719 seconds.
+Jul 23 08:09:01 ip-172-31-47-60 CRON[5890]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 08:17:01 ip-172-31-47-60 CRON[5934]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 23 08:21:02 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 08:21:02 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 08:21:02 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1360 seconds.
+Jul 23 08:39:01 ip-172-31-47-60 CRON[5955]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 08:43:42 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 08:43:42 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 08:43:42 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1445 seconds.
+Jul 23 09:07:47 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 09:07:47 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 09:07:47 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1361 seconds.
+Jul 23 09:09:01 ip-172-31-47-60 CRON[6027]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 09:17:01 ip-172-31-47-60 CRON[6069]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 23 09:22:01 ip-172-31-47-60 CRON[6074]: (root) CMD (   test -x /etc/cron.daily/popularity-contest && /etc/cron.daily/popularity-contest --crond)
+Jul 23 09:27:01 ip-172-31-47-60 systemd[1]: Starting Cleanup of Temporary Directories...
+Jul 23 09:27:01 ip-172-31-47-60 systemd-tmpfiles[6076]: [/usr/lib/tmpfiles.d/var.conf:14] Duplicate line for path "/var/log", ignoring.
+Jul 23 09:27:01 ip-172-31-47-60 systemd[1]: Started Cleanup of Temporary Directories.
+Jul 23 09:30:28 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 09:30:28 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 09:30:28 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1791 seconds.
+Jul 23 09:39:01 ip-172-31-47-60 CRON[6093]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 10:00:19 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 10:00:19 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 10:00:19 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1768 seconds.
+Jul 23 10:09:01 ip-172-31-47-60 CRON[6149]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 10:17:01 ip-172-31-47-60 CRON[6193]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 23 10:29:47 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 10:29:47 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 10:29:47 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1611 seconds.
+Jul 23 10:39:01 ip-172-31-47-60 CRON[6216]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 10:56:38 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 10:56:38 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 10:56:38 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1417 seconds.
+Jul 23 11:09:01 ip-172-31-47-60 CRON[6297]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 11:17:01 ip-172-31-47-60 CRON[6339]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 23 11:20:15 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 11:20:15 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 11:20:15 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1409 seconds.
+Jul 23 11:39:01 ip-172-31-47-60 CRON[6364]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 11:43:45 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 11:43:45 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 11:43:45 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1486 seconds.
+Jul 23 12:08:31 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 12:08:31 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 12:08:31 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1472 seconds.
+Jul 23 12:09:01 ip-172-31-47-60 CRON[6471]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 12:17:01 ip-172-31-47-60 CRON[6513]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 23 12:33:03 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 12:33:03 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 12:33:03 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1377 seconds.
+Jul 23 12:39:01 ip-172-31-47-60 CRON[6536]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 12:56:00 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 12:56:00 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 12:56:00 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1494 seconds.
+Jul 23 13:09:01 ip-172-31-47-60 CRON[6590]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 13:17:01 ip-172-31-47-60 CRON[6632]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 23 13:20:54 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 13:20:54 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 13:20:54 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1378 seconds.
+Jul 23 13:39:01 ip-172-31-47-60 CRON[6647]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 13:43:52 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 13:43:52 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 13:43:52 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1461 seconds.
+Jul 23 14:08:13 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 14:08:13 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 14:08:13 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1766 seconds.
+Jul 23 14:09:01 ip-172-31-47-60 CRON[6719]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 14:17:01 ip-172-31-47-60 CRON[6761]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 23 14:37:39 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 14:37:39 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 14:37:39 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1582 seconds.
+Jul 23 14:39:01 ip-172-31-47-60 CRON[6786]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 15:04:01 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 15:04:01 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 15:04:01 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1686 seconds.
+Jul 23 15:09:01 ip-172-31-47-60 CRON[6848]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 15:17:01 ip-172-31-47-60 CRON[6890]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 23 15:32:07 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 15:32:07 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 15:32:07 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1384 seconds.
+Jul 23 15:39:01 ip-172-31-47-60 CRON[6905]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 15:55:11 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 15:55:11 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 15:55:11 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1680 seconds.
+Jul 23 16:09:01 ip-172-31-47-60 CRON[6959]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 16:17:01 ip-172-31-47-60 CRON[7045]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 23 16:23:11 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 16:23:11 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 16:23:11 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1558 seconds.
+Jul 23 16:39:01 ip-172-31-47-60 CRON[7090]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 16:49:09 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 16:49:09 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 16:49:09 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1368 seconds.
+Jul 23 17:07:37 ip-172-31-47-60 snapd[28115]: 2018/07/23 17:07:37.706087 storehelpers.go:413: cannot refresh:
+Jul 23 17:07:37 ip-172-31-47-60 snapd[28115]: snap "amazon-ssm-agent": snap has no updates available
+Jul 23 17:07:37 ip-172-31-47-60 snapd[28115]: snap "core": snap has no updates available
+Jul 23 17:07:37 ip-172-31-47-60 snapd[28115]: 2018/07/23 17:07:37.707510 autorefresh.go:388: auto-refresh: all snaps are up-to-date
+Jul 23 17:09:01 ip-172-31-47-60 CRON[7172]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 17:11:57 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 17:11:57 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 17:11:57 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1508 seconds.
+Jul 23 17:17:01 ip-172-31-47-60 CRON[7228]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 23 17:37:05 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 17:37:05 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 17:37:05 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1678 seconds.
+Jul 23 17:39:01 ip-172-31-47-60 CRON[7259]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 17:51:29 ip-172-31-47-60 systemd[1]: Starting Daily apt download activities...
+Jul 23 17:51:29 ip-172-31-47-60 systemd[1]: Started Daily apt download activities.
+Jul 23 18:05:03 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 18:05:03 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 18:05:03 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1480 seconds.
+Jul 23 18:09:01 ip-172-31-47-60 CRON[7374]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 18:17:01 ip-172-31-47-60 CRON[7424]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 23 18:29:43 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 18:29:43 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 18:29:43 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1444 seconds.
+Jul 23 18:39:01 ip-172-31-47-60 CRON[7441]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 18:53:47 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 18:53:47 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 18:53:47 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1401 seconds.
+Jul 23 19:09:01 ip-172-31-47-60 CRON[7509]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 19:17:01 ip-172-31-47-60 CRON[7551]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 23 19:17:08 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 19:17:08 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 19:17:08 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1586 seconds.
+Jul 23 19:39:01 ip-172-31-47-60 CRON[7566]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 19:42:37 ip-172-31-47-60 snapd[28115]: 2018/07/23 19:42:37.357785 storehelpers.go:413: cannot refresh:
+Jul 23 19:42:37 ip-172-31-47-60 snapd[28115]: snap "core": snap has no updates available
+Jul 23 19:42:37 ip-172-31-47-60 snapd[28115]: snap "amazon-ssm-agent": snap has no updates available
+Jul 23 19:42:37 ip-172-31-47-60 snapd[28115]: 2018/07/23 19:42:37.359229 autorefresh.go:388: auto-refresh: all snaps are up-to-date
+Jul 23 19:43:34 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 19:43:34 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 19:43:34 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1631 seconds.
+Jul 23 20:09:01 ip-172-31-47-60 CRON[7631]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 20:10:45 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 20:10:45 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 20:10:45 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1759 seconds.
+Jul 23 20:17:01 ip-172-31-47-60 CRON[7685]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 23 20:39:01 ip-172-31-47-60 CRON[7699]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 20:40:04 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 20:40:04 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 20:40:04 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1715 seconds.
+Jul 23 21:08:39 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 21:08:39 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 21:08:39 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1431 seconds.
+Jul 23 21:09:01 ip-172-31-47-60 CRON[7773]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 21:17:01 ip-172-31-47-60 CRON[7815]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 23 21:32:30 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 21:32:30 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 21:32:30 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1770 seconds.
+Jul 23 21:39:01 ip-172-31-47-60 CRON[7830]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 22:02:00 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 22:02:00 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 22:02:00 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1522 seconds.
+Jul 23 22:09:01 ip-172-31-47-60 CRON[7895]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 22:17:01 ip-172-31-47-60 CRON[7937]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 23 22:27:22 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 22:27:22 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 22:27:22 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1565 seconds.
+Jul 23 22:39:01 ip-172-31-47-60 CRON[7952]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 22:53:27 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 22:53:27 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 22:53:27 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1422 seconds.
+Jul 23 23:09:01 ip-172-31-47-60 CRON[8006]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 23:17:01 ip-172-31-47-60 CRON[8048]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 23 23:17:09 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 23:17:09 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 23:17:09 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1526 seconds.
+Jul 23 23:39:01 ip-172-31-47-60 CRON[8063]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 23 23:42:35 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 23 23:42:35 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 23 23:42:35 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1669 seconds.
+Jul 24 00:09:01 ip-172-31-47-60 CRON[8137]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 24 00:10:24 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 24 00:10:24 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 24 00:10:25 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1434 seconds.
+Jul 24 00:17:01 ip-172-31-47-60 CRON[8191]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 24 00:34:19 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 24 00:34:19 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 24 00:34:19 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1798 seconds.
+Jul 24 00:39:01 ip-172-31-47-60 CRON[8211]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 24 00:46:54 ip-172-31-47-60 systemd[1]: Starting Daily apt download activities...
+Jul 24 00:47:00 ip-172-31-47-60 systemd[1]: Started Daily apt download activities.
+Jul 24 01:04:17 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 24 01:04:17 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 24 01:04:17 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1527 seconds.
+Jul 24 01:09:01 ip-172-31-47-60 CRON[8534]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 24 01:17:01 ip-172-31-47-60 CRON[8576]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 24 01:29:44 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 24 01:29:44 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 24 01:29:44 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1610 seconds.
+Jul 24 01:37:37 ip-172-31-47-60 snapd[28115]: 2018/07/24 01:37:37.358613 storehelpers.go:413: cannot refresh:
+Jul 24 01:37:37 ip-172-31-47-60 snapd[28115]: snap "core": snap has no updates available
+Jul 24 01:37:37 ip-172-31-47-60 snapd[28115]: snap "amazon-ssm-agent": snap has no updates available
+Jul 24 01:37:37 ip-172-31-47-60 snapd[28115]: 2018/07/24 01:37:37.360047 autorefresh.go:388: auto-refresh: all snaps are up-to-date
+Jul 24 01:39:01 ip-172-31-47-60 CRON[8593]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 24 01:56:34 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 24 01:56:34 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 24 01:56:34 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1671 seconds.
+Jul 24 02:09:01 ip-172-31-47-60 CRON[8651]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 24 02:17:01 ip-172-31-47-60 CRON[8693]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 24 02:24:25 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 24 02:24:25 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 24 02:24:25 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1788 seconds.
+Jul 24 02:39:01 ip-172-31-47-60 CRON[8710]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 24 02:54:13 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 24 02:54:13 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 24 02:54:13 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1569 seconds.
+Jul 24 03:09:01 ip-172-31-47-60 CRON[8764]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 24 03:17:01 ip-172-31-47-60 CRON[8806]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 24 03:20:22 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 24 03:20:22 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 24 03:20:22 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1526 seconds.
+Jul 24 03:39:01 ip-172-31-47-60 CRON[8821]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 24 03:45:48 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 24 03:45:48 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 24 03:45:48 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1656 seconds.
+Jul 24 04:09:01 ip-172-31-47-60 CRON[8875]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 24 04:13:24 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 24 04:13:24 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 24 04:13:24 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1676 seconds.
+Jul 24 04:17:01 ip-172-31-47-60 CRON[8929]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 24 04:39:01 ip-172-31-47-60 CRON[8942]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 24 04:41:20 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 24 04:41:20 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 24 04:41:20 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1500 seconds.
+Jul 24 05:06:20 ip-172-31-47-60 dhclient[991]: DHCPREQUEST of 172.31.47.60 on eth0 to 172.31.32.1 port 67 (xid=0x29acce6c)
+Jul 24 05:06:20 ip-172-31-47-60 dhclient[991]: DHCPACK of 172.31.47.60 from 172.31.32.1
+Jul 24 05:06:20 ip-172-31-47-60 dhclient[991]: bound to 172.31.47.60 -- renewal in 1582 seconds.
+Jul 24 05:09:01 ip-172-31-47-60 CRON[9010]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Jul 24 05:17:01 ip-172-31-47-60 CRON[9052]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 24 05:24:18 ip-172-31-47-60 systemd[1]: Created slice User Slice of ubuntu.
+Jul 24 05:24:18 ip-172-31-47-60 systemd[1]: Starting User Manager for UID 1000...
+Jul 24 05:24:18 ip-172-31-47-60 systemd[1]: Started Session 289 of user ubuntu.
+Jul 24 05:24:18 ip-172-31-47-60 systemd[9057]: Reached target Sockets.
+Jul 24 05:24:18 ip-172-31-47-60 systemd[9057]: Reached target Timers.
+Jul 24 05:24:18 ip-172-31-47-60 systemd[9057]: Reached target Paths.
+Jul 24 05:24:18 ip-172-31-47-60 systemd[9057]: Reached target Basic System.
+Jul 24 05:24:18 ip-172-31-47-60 systemd[9057]: Reached target Default.
+Jul 24 05:24:18 ip-172-31-47-60 systemd[9057]: Startup finished in 12ms.
+Jul 24 05:24:18 ip-172-31-47-60 systemd[1]: Started User Manager for UID 1000.
+Jul 24 05:26:45 ip-172-31-47-60 kernel: [332180.597488] lime: loading out-of-tree module taints kernel.
+Jul 24 05:26:45 ip-172-31-47-60 kernel: [332180.597519] lime: module verification failed: signature and/or required key missing - tainting kernel

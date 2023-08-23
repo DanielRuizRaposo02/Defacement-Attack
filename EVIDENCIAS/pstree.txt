@@ -1,0 +1,261 @@
+﻿python ./vol.py -f '/home/recirof/Descargas/volatility/RAM.bin' --profile='LinuxUbuntu_4_4_0-1061-aws_profilex64' linux_pstree
+
+
+Volatility Foundation Volatility Framework 2.6.1
+
+Name                 Pid             Uid            
+
+systemd              1                              
+
+.systemd-journal     413                            
+
+.lvmetad             442                            
+
+.systemd-udevd       471                            
+
+.systemd-timesyn     560             100            
+
+.dhclient            991                            
+
+.iscsid              1140                           
+
+.iscsid              1141                           
+
+.dbus-daemon         1148            107            
+
+.systemd-logind      1166                           
+
+.rsyslogd            1168            104            
+
+.lxcfs               1172                           
+
+.cron                1177                           
+
+.accounts-daemon     1182                           
+
+.atd                 1183                           
+
+.acpid               1197                           
+
+.mdadm               1251                           
+
+.agetty              1310                           
+
+.agetty              1311                           
+
+.sshd                1340                           
+
+..sshd               9055                           
+
+...sshd              9118            1000           
+
+....bash             9126            1000           
+
+.....sudo            14088                          
+
+......insmod         14089                          
+
+.amazon-ssm-agen     1817                           
+
+.polkitd             16956                          
+
+.apache2             27428                          
+
+..apache2            5573            33             
+
+..apache2            5763            33             
+
+..apache2            6196            33             
+
+..apache2            6262            33             
+
+..apache2            6266            33             
+
+..apache2            6281            33             
+
+..apache2            6285            33             
+
+..apache2            6286            33             
+
+..apache2            6287            33             
+
+..apache2            9054            33             
+
+.snapd               28115                          
+
+.systemd             9057            1000           
+
+..(sd-pam)           9060            1000           
+
+[kthreadd]           2                              
+
+.[ksoftirqd/0]       3                              
+
+.[kworker/0:0H]      5                              
+
+.[rcu_sched]         7                              
+
+.[rcu_bh]            8                              
+
+.[migration/0]       9                              
+
+.[watchdog/0]        10                             
+
+.[kdevtmpfs]         11                             
+
+.[netns]             12                             
+
+.[perf]              13                             
+
+.[xenwatch]          14                             
+
+.[xenbus]            15                             
+
+.[khungtaskd]        17                             
+
+.[writeback]         18                             
+
+.[ksmd]              19                             
+
+.[khugepaged]        20                             
+
+.[crypto]            21                             
+
+.[kintegrityd]       22                             
+
+.[bioset]            23                             
+
+.[kblockd]           24                             
+
+.[ata_sff]           25                             
+
+.[md]                26                             
+
+.[devfreq_wq]        27                             
+
+.[kswapd0]           30                             
+
+.[vmstat]            31                             
+
+.[fsnotify_mark]     32                             
+
+.[ecryptfs-kthrea]   33                             
+
+.[kthrotld]          49                             
+
+.[bioset]            50                             
+
+.[bioset]            51                             
+
+.[bioset]            52                             
+
+.[bioset]            53                             
+
+.[bioset]            54                             
+
+.[bioset]            55                             
+
+.[bioset]            56                             
+
+.[bioset]            57                             
+
+.[bioset]            58                             
+
+.[bioset]            59                             
+
+.[bioset]            60                             
+
+.[bioset]            61                             
+
+.[bioset]            62                             
+
+.[bioset]            63                             
+
+.[bioset]            64                             
+
+.[bioset]            65                             
+
+.[bioset]            66                             
+
+.[bioset]            67                             
+
+.[bioset]            68                             
+
+.[bioset]            69                             
+
+.[bioset]            70                             
+
+.[bioset]            71                             
+
+.[bioset]            72                             
+
+.[bioset]            73                             
+
+.[scsi_eh_0]         74                             
+
+.[scsi_tmf_0]        75                             
+
+.[scsi_eh_1]         76                             
+
+.[scsi_tmf_1]        77                             
+
+.[bioset]            79                             
+
+.[ipv6_addrconf]     83                             
+
+.[deferwq]           96                             
+
+.[raid5wq]           258                            
+
+.[bioset]            290                            
+
+.[jbd2/xvda1-8]      314                            
+
+.[ext4-rsv-conver]   315                            
+
+.[iscsi_eh]          393                            
+
+.[ib_addr]           399                            
+
+.[ib_mcast]          405                            
+
+.[ib_nl_sa_wq]       407                            
+
+.[ib_cm]             409                            
+
+.[iw_cm_wq]          410                            
+
+.[rdma_cm]           411                            
+
+.[kauditd]           417                            
+
+.[kworker/0:1H]      582                            
+
+.[loop0]             1506                           
+
+.[loop1]             1757                           
+
+.[xfsalloc]          16817                          
+
+.[xfs_mru_cache]     16818                          
+
+.[loop2]             28097                          
+
+.[kworker/u30:2]     28103                          
+
+.[kworker/0:1]       1811                           
+
+.[kworker/0:0]       8254                           
+
+.[kworker/u30:0]     8520                           
+
+.[kworker/0:2]       9059                           
+
+.[kworker/0:3]       9063                           
+
+.[kworker/u30:1]     14077                          
+
+
+
+
+

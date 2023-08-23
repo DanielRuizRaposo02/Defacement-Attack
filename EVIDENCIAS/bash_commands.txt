@@ -1,0 +1,71 @@
+python ./vol.py -f RAM.bin --profile LinuxUbuntu_4_4_0-1061-aws_profilex64 linux_bash
+
+Pid      Name                 Command Time                   Command
+-------- -------------------- ------------------------------ -------
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   grep Listen ../*
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo vi ../ports.conf 
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo a2enmod ssl
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo chown -R www-data:www-data wordpress
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo letsencrypt --apache -d ganga.site -d www.ganga.site
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   history
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   ifconfig
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   cd /etc/apache
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo apt install apache2 libapache2-mod-php php-mysql
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo apt upgrade
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   mysql -uadmin -p -hganga.ctmbcxcdb3us.eu-central-1.rds.amazonaws.com ganga
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo service apache2 restart
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo apt update
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo letsencrypt --apache -d ganga.site -d www.ganga.site
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   apt-cache search certbot
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   mysql -uadmin -p -hganga.ctmbcxcdb3us.eu-central-1.rds.amazonaws.com ganga
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo letsencrypt --apache -d ganga.site -d www.ganga.site
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   cd /etc/apache2
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   certbot
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo service apache restart
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   ls -l ../mods-enabled/
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo vi 000-default.conf 
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   ls -l
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   cd ..
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo vi /etc/apache2/sites-enabled/000-default-le-ssl.conf 
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   tail /var/log/apache2/access.log 
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo vi ../apache2.conf 
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo vi /etc/apache2/sites-enabled/000-default-le-ssl.conf 
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   letsencrypt
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo apt-get install python-certbot-apache
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo rm index.html 
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   ls -l ~
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo letsencrypt --authenticator webroot --installer apache --webroot-path /var/www/html -d ganga.site -d www.ganga.site
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   ls -l ..
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo vi /etc/apache2/sites-enabled/000-default-le-ssl.conf 
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   find /etc/apche2 -type f -exec grep -i Logformat {} \;
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   mysql -u ganga -p -h ganga.ctmbcxcdb3us.eu-central-1.rds.amazonaws.com
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo vi /etc/apache2/sites-enabled/000-default-le-ssl.conf 
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo service apache2 restart
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   find /etc/apache2 -type f -exec grep -Hi Logformat {} \;
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo apt-get install python-letsencrypt-apache
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   tail /var/log/apache2/access.log 
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   find /etc/apache2 -type f -exec grep -i Logformat {} \;
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo service apache2 restart
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo vi /etc/apache2/sites-enabled/000-default-le-ssl.conf 
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   mysql -u admin -p -h ganga.ctmbcxcdb3us.eu-central-1.rds.amazonaws.com
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo vi /etc/apache2/sites-enabled/000-default-le-ssl.conf 
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo apt install mysql-client-core-5.7
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo tar xzf ~/wordpress-4.8.1.tar.gz 
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   ls -l
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo service apache2 restart
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo service apache2 restart
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   exit
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo service apache2 restart
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   cd html
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   cd
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   letsnecrypot
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo letsencrypt --authenticator webroot --installer apache --webroot-path /var/www/html -d ganga.site -d www.ganga.site
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo letsencrypt --authenticator webroot --installer apache --webroot-path /var/www/html -d ganga.site -d www.ganga.site
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo apt install letsencrypt
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   ls -l
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   cd /var/www/html
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   ls -l
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   cd sites-enabled/
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   ps -ef | grep apache
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   sudo vi /etc/apache2/sites-available/000-default.conf 
+    9126 bash                 2018-07-24 05:24:19 UTC+0000   mysql -u admin -p -h ganga.ctmbcxcdb3us.eu-central-1.rds.amazonaws.com

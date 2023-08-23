@@ -1,0 +1,163 @@
+python ./vol.py -f RAM.bin --profile LinuxUbuntu_4_4_0-1061-aws_profilex64 linux_netstatVolatility Foundation Volatility Framework 2.6.1
+
+UNIX 8788               systemd/1     /run/systemd/private
+UNIX 54269              systemd/1     
+UNIX 8787               systemd/1     /run/systemd/notify
+UNIX 13405              systemd/1     /var/run/dbus/system_bus_socket
+UNIX 13408              systemd/1     /run/uuidd/request
+UNIX 54483              systemd/1     /run/systemd/journal/stdout
+UNIX 13398              systemd/1     /run/acpid.socket
+UNIX 8794               systemd/1     /run/systemd/journal/syslog
+UNIX 110298             systemd/1     /run/systemd/journal/stdout
+UNIX 9631               systemd/1     /run/systemd/journal/stdout
+UNIX 10165              systemd/1     /run/systemd/journal/stdout
+UNIX 11050              systemd/1     /run/systemd/journal/stdout
+UNIX 15855              systemd/1     /run/systemd/journal/stdout
+UNIX 15862              systemd/1     /run/systemd/journal/stdout
+UNIX 15863              systemd/1     /run/systemd/journal/stdout
+UNIX 15875              systemd/1     /run/systemd/journal/stdout
+UNIX 15882              systemd/1     /run/systemd/journal/stdout
+UNIX 15916              systemd/1     /run/systemd/journal/stdout
+UNIX 17778              systemd/1     /run/systemd/journal/stdout
+UNIX 13697              systemd/1     
+UNIX 8804               systemd/1     /run/systemd/journal/stdout
+UNIX 8805               systemd/1     /run/systemd/journal/socket
+UNIX 8793               systemd/1     /run/udev/control
+UNIX 8802               systemd/1     /run/lvm/lvmpolld.socket
+UNIX 8801               systemd/1     /run/systemd/journal/dev-log
+UNIX 13397              systemd/1     /var/lib/lxd/unix.socket
+UNIX 8800               systemd/1     /run/lvm/lvmetad.socket
+UNIX 26985              systemd/1     /run/snapd.socket
+UNIX 26986              systemd/1     /run/snapd-snap.socket
+UNIX 8804       systemd-journal/413   /run/systemd/journal/stdout
+UNIX 8805       systemd-journal/413   /run/systemd/journal/socket
+UNIX 8801       systemd-journal/413   /run/systemd/journal/dev-log
+UNIX 9345       systemd-journal/413   
+UNIX 9631       systemd-journal/413   /run/systemd/journal/stdout
+UNIX 10165      systemd-journal/413   /run/systemd/journal/stdout
+UNIX 15862      systemd-journal/413   /run/systemd/journal/stdout
+UNIX 15863      systemd-journal/413   /run/systemd/journal/stdout
+UNIX 15855      systemd-journal/413   /run/systemd/journal/stdout
+UNIX 11050      systemd-journal/413   /run/systemd/journal/stdout
+UNIX 15875      systemd-journal/413   /run/systemd/journal/stdout
+UNIX 17778      systemd-journal/413   /run/systemd/journal/stdout
+UNIX 15882      systemd-journal/413   /run/systemd/journal/stdout
+UNIX 54483      systemd-journal/413   /run/systemd/journal/stdout
+UNIX 110298     systemd-journal/413   /run/systemd/journal/stdout
+UNIX 15916      systemd-journal/413   /run/systemd/journal/stdout
+UNIX 9630               lvmetad/442   
+UNIX 9630               lvmetad/442   
+UNIX 8800               lvmetad/442   /run/lvm/lvmetad.socket
+UNIX 10164        systemd-udevd/471   
+UNIX 10164        systemd-udevd/471   
+UNIX 8793         systemd-udevd/471   /run/udev/control
+UNIX 10169        systemd-udevd/471   
+UNIX 10189        systemd-udevd/471   
+UNIX 10190        systemd-udevd/471   
+UNIX 11049      systemd-timesyn/560   
+UNIX 11049      systemd-timesyn/560   
+UNIX 11111      systemd-timesyn/560   
+UNIX 11115      systemd-timesyn/560   
+UNIX 11116      systemd-timesyn/560   
+UNIX 11117      systemd-timesyn/560   
+UNIX 11118      systemd-timesyn/560   
+UNIX 12776             dhclient/991   
+UDP      0.0.0.0         :   68 0.0.0.0         :    0                          dhclient/991  
+UNIX 13502               iscsid/1140  
+UNIX 13495               iscsid/1141  
+UNIX 13496               iscsid/1141  
+UNIX 13696          dbus-daemon/1148  
+UNIX 13696          dbus-daemon/1148  
+UNIX 13405          dbus-daemon/1148  /var/run/dbus/system_bus_socket
+UNIX 13730          dbus-daemon/1148  
+UNIX 13733          dbus-daemon/1148  
+UNIX 13734          dbus-daemon/1148  
+UNIX 13735          dbus-daemon/1148  /var/run/dbus/system_bus_socket
+UNIX 13870          dbus-daemon/1148  /var/run/dbus/system_bus_socket
+UNIX 14834          dbus-daemon/1148  /var/run/dbus/system_bus_socket
+UNIX 32769          dbus-daemon/1148  /var/run/dbus/system_bus_socket
+UNIX 13794       systemd-logind/1166  
+UNIX 13794       systemd-logind/1166  
+UNIX 13860       systemd-logind/1166  
+UNIX 13869       systemd-logind/1166  
+UNIX 8794              rsyslogd/1168  /run/systemd/journal/syslog
+UNIX 13932                lxcfs/1172  
+UNIX 13932                lxcfs/1172  
+UNIX 14003                 cron/1177  
+UNIX 14003                 cron/1177  
+UNIX 14145      accounts-daemon/1182  
+UNIX 14145      accounts-daemon/1182  
+UNIX 14766      accounts-daemon/1182  
+UNIX 13398                acpid/1197  /run/acpid.socket
+UNIX 14427                acpid/1197  
+UNIX 15791                 sshd/1340  
+UNIX 15791                 sshd/1340  
+TCP      0.0.0.0         :   22 0.0.0.0         :    0 LISTEN                       sshd/1340 
+TCP      ::              :   22 ::              :    0 LISTEN                       sshd/1340 
+UNIX 17777      amazon-ssm-agen/1817  
+UNIX 17777      amazon-ssm-agen/1817  
+UNIX 32768              polkitd/16956 
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                     apache2/27428
+TCP      ::              :   80 ::              :    0 LISTEN                    apache2/27428
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                     apache2/27428
+TCP      ::              :  443 ::              :    0 LISTEN                    apache2/27428
+UNIX 54482                snapd/28115 
+UNIX 54482                snapd/28115 
+UNIX 26985                snapd/28115 /run/snapd.socket
+UNIX 26986                snapd/28115 /run/snapd-snap.socket
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                     apache2/5573 
+TCP      ::              :   80 ::              :    0 LISTEN                    apache2/5573 
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                     apache2/5573 
+TCP      ::              :  443 ::              :    0 LISTEN                    apache2/5573 
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                     apache2/5763 
+TCP      ::              :   80 ::              :    0 LISTEN                    apache2/5763 
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                     apache2/5763 
+TCP      ::              :  443 ::              :    0 LISTEN                    apache2/5763 
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                     apache2/6196 
+TCP      ::              :   80 ::              :    0 LISTEN                    apache2/6196 
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                     apache2/6196 
+TCP      ::              :  443 ::              :    0 LISTEN                    apache2/6196 
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                     apache2/6262 
+TCP      ::              :   80 ::              :    0 LISTEN                    apache2/6262 
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                     apache2/6262 
+TCP      ::              :  443 ::              :    0 LISTEN                    apache2/6262 
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                     apache2/6266 
+TCP      ::              :   80 ::              :    0 LISTEN                    apache2/6266 
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                     apache2/6266 
+TCP      ::              :  443 ::              :    0 LISTEN                    apache2/6266 
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                     apache2/6281 
+TCP      ::              :   80 ::              :    0 LISTEN                    apache2/6281 
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                     apache2/6281 
+TCP      ::              :  443 ::              :    0 LISTEN                    apache2/6281 
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                     apache2/6285 
+TCP      ::              :   80 ::              :    0 LISTEN                    apache2/6285 
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                     apache2/6285 
+TCP      ::              :  443 ::              :    0 LISTEN                    apache2/6285 
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                     apache2/6286 
+TCP      ::              :   80 ::              :    0 LISTEN                    apache2/6286 
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                     apache2/6286 
+TCP      ::              :  443 ::              :    0 LISTEN                    apache2/6286 
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                     apache2/6287 
+TCP      ::              :   80 ::              :    0 LISTEN                    apache2/6287 
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                     apache2/6287 
+TCP      ::              :  443 ::              :    0 LISTEN                    apache2/6287 
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                     apache2/9054 
+TCP      ::              :   80 ::              :    0 LISTEN                    apache2/9054 
+TCP      0.0.0.0         :    0 0.0.0.0         :    0 CLOSE                     apache2/9054 
+TCP      ::              :  443 ::              :    0 LISTEN                    apache2/9054 
+TCP      172.31.47.60    :   22 23.226.128.37   :42760 ESTABLISHED                  sshd/9055 
+UNIX 110219                sshd/9055  
+UNIX 110388                sshd/9055  
+UNIX 110294             systemd/9057  
+UNIX 110294             systemd/9057  
+UNIX 110320             systemd/9057  
+UNIX 110333             systemd/9057  /run/user/1000/systemd/notify
+UNIX 110334             systemd/9057  /run/user/1000/systemd/private
+UNIX 110294            (sd-pam)/9060  
+UNIX 110294            (sd-pam)/9060  
+UNIX 110301            (sd-pam)/9060  
+TCP      172.31.47.60    :   22 23.226.128.37   :42760 ESTABLISHED                  sshd/9118 
+UNIX 110219                sshd/9118  
+UNIX 110387                sshd/9118  
+UNIX 116630                sudo/14088 
+UNIX 116633                sudo/14088 
