@@ -66,10 +66,4 @@ Para la presentación o descripción de las evidencias localizadas deberá indic
     MAC time.
     Tamaño lógico del fichero.
     Valor hash del fichero.
-
-El índice de todas las evidencias localizadas, con la descripción que acabamos de ver, debe ser incorporado como anexo del informe pericial. No es necesario extraer las evidencias, es decir, obtener los ficheros, pero sí mostrar sus contenidos.
-Normativas y estándares
-
-No olvidéis revisar las normas UNE/ISO/RFC comentadas en clase, elegir la que gustéis, tenerla bien a mano y revisarla de vez en cuando para aseguraros que estamos siguiendo el proceso adecuado y manteniendo adecuadamente la cadena de custodia.
-
 No sabemos cuando un caso puede acabar en los tribunales, siguiendo unos principios básicos nos aseguramos que si eso ocurre no tendremos que rehacer todo nuestro trabajo para adecuarlo a un proceso judicial.
